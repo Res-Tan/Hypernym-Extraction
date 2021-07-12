@@ -3,3 +3,5 @@ hypernym extraction from definitions by recurrent neural networks using the part
 
 # Status
 the source data and experimental code will be uploaded soon
+
+Username change testing
